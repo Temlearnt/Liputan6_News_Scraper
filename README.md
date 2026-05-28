@@ -38,7 +38,7 @@ pip install requests beautifulsoup4 tabulate
 Clone the repository and run the script:  
 
 ```bash
-git clone https://github.com/yourusername/liputan6-news-scraper.git  
+git clone https://github.com/Temlearnt/Liputan6_News_Scraper.git
 cd liputan6-news-scraper  
 python liputan6_scraper.py  
 ```
